@@ -1,0 +1,17 @@
+= Cheatsheets
+
+[[Entry]]
+== Entry
+
+++++
+++++
+'''
+
+[cols=">25%,^25%,50%"]
+[frame="topbot"]
+|===
+^|Name | Type ^| Description
+|[[name]]`name`|`String`|-
+|[[path]]`path`|`String`|-
+|===
+
